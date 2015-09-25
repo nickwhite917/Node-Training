@@ -1,0 +1,25 @@
+{
+  "name": "Multi-Vision",
+  "version": "0.0.0",
+  "description": "Computer Engineering Training",
+  "authors": [
+    "Nick White"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.2",
+    "angular": "~1.4.6",
+    "angular-route": "~1.4.6",
+    "angular-resource": "~1.4.6",
+    "bootstrap": "~3.3.5"
+  }
+}
